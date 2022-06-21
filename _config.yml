@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liang Zhao / Site Title"
+title                    : "Liang Zhao"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
