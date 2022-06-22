@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a PhD student in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn.http.jxutcmtsg.proxy.jxutcm.edu.cn/main.htm) at [Zhejiang University](https://www.zju.edu.cn/).
+- I am currently a PhD student in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn.http.jxutcmtsg.proxy.jxutcm.edu.cn/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/)
 - Supervised by [Prof. Yong Bai](https://person.zju.edu.cn/0010294), my research interests include: guidance, navigation, and control of unmanned surface vehicles (USVs); path planning algorithms of USV/AUV/UAV; collision avoidance and decision support system for USVs; advanced control for marine vehicles.
 
 
