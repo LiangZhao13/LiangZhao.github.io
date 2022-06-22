@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://Liangzhao13.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://Liangzhao13.github.io/talks/    
 
 #  - title: "Teaching"
 #   url: /teaching/    
@@ -16,4 +16,4 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://Liangzhao13.github.io/cv/
