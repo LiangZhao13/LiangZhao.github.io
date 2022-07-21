@@ -15,6 +15,9 @@ Journal Articles
 
 Conference Paper
 ===
+1. **Liang Zhao**, Ruyin Mao, Yong Bai, Fang Wang. 2022. Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline. 5th IEEE International Conference on Unmanned Systems (ICUS 2022). Oct 14-16. Guangzhou, China. (EI indexed)
+2. **Liang Zhao**, Ruyin Mao, Yong Bai. 2022. Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels. 5th IEEE International Conference on Unmanned Systems (ICUS 2022). Oct 14-16. Guangzhou, China. (EI indexed)
+
 
 
 
