@@ -13,4 +13,5 @@ redirect_from:
 - Priori to joining ZJU, I received my B.Eng. degree in College of Civil Engineering at Central South University in 2020.
 
 # Recent news
-- I enrolled the summer school project [EU Study](https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/munich-international-summer-university/summer-academies/european-studies-summer-school/index.html) which is hold by [Ludwig-Maximilians-Universität](https://www.lmu.de/en/index.html) in Munich, Germany. (July 2021)
+- Our team received the Stable Supporting Fund of Science and Technology on Underwater Vehicle Technology. I am the core participant in the project. (June 2022)
+- I enrolled the summer school project [EU Study](https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/munich-international-summer-university/summer-academies/european-studies-summer-school/index.html) which is hold by [Ludwig-Maximilians-Universität](https://www.lmu.de/en/index.html) in Munich, Germany. (Jul 2021)
