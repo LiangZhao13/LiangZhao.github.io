@@ -10,7 +10,7 @@ redirect_from:
 
 - I am currently a PhD candidate in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn.http.jxutcmtsg.proxy.jxutcm.edu.cn/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/). 
 - Supervised by [Prof. Yong Bai](https://person.zju.edu.cn/0010294), my current research interests include:\
-**Trajectory/Motion planning of USV/AUV/UAV;\
+**Trajectory/Motion planning for USV/AUV/UAV;\
 Task allocation/Cooperative search/Formation control for multi-USVs system'\
 Collision avoidance and decision support system for USVs;\
 Advanced control for marine vehicles;**
