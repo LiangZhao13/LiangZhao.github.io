@@ -18,4 +18,4 @@ Advanced control for marine vehicles;**
 
 # Recent news
 - Our team received the Stable Supporting Fund of Science and Technology on Underwater Vehicle Technology. I am the core participant in the project. (June 2022)
-- I enrolled the summer school project [EU Study](https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/munich-international-summer-university/summer-academies/european-studies-summer-school/index.html) which is hold by [Ludwig-Maximilians-Universität](https://www.lmu.de/en/index.html) in Munich, Germany. (Jul 2021)
+- I finished the summer school project [EU Study](https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/munich-international-summer-university/summer-academies/european-studies-summer-school/index.html) which is hold by [Ludwig-Maximilians-Universität](https://www.lmu.de/en/index.html) in Munich, Germany. (Jul 2021)
