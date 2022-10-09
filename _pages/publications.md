@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Articles (Peer-reviewed)
 ===
-1. **Zhao, L**., Bai, Y*., Bai, J., Wang, F., 2022. Multi-objective path planning for unmanned surface vehicles using adaptive enhanced non-dominated sorting genetic algorithm (AENSGA-II) with fuzzy inference selector. Ocean Engineering. (Under review)
+1. **Zhao, L**., Bai, Y*., Bai, J., Wang, F., 2022. Multi-objective path planning for unmanned surface vehicles using adaptive enhanced non-dominated sorting genetic algorithm (AENSGA-II) with fuzzy inference selector. Applied Ocean Research. (Under review)
 2. **Zhao, L***., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. Ships and Offshore Structures 1-13. [https://doi.org/10.1080/17445302.2022.2116765](https://doi.org/10.1080/17445302.2022.2116765)
 3. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. Ships and Offshore Structures 1-12. [https://doi.org/10.1080/17445302.2022.2126115](https://doi.org/10.1080/17445302.2022.2126115)
 4. **Zhao, L**., Wang, F., Bai, Y*., 2022. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. Ships and Offshore Structures 1–10. [https://doi.org/10.1080/17445302.2022.2081423](https://doi.org/10.1080/17445302.2022.2081423)
