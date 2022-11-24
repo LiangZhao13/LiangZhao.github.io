@@ -17,6 +17,8 @@ Advanced control for marine vehicles;**
 - Priori to joining ZJU, I received my B.Eng. degree in College of Civil Engineering at Central South University in 2020.
 
 # Recent news 
+-   [Oct.2022] I gave a talk on "Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China.
+-   [Oct.2022] I gave a talk on "Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. 
 -   [Oct.2022] I received the Outstanding Graduate Student honor granted by Zhejiang University. 
 -   [Oct. 2022] I received the National Scholarship of graduate student granted by Chinese government. 
 -   [July, 2021] I finished the summer school project [EU Study](https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/munich-international-summer-university/summer-academies/european-studies-summer-school/index.html) which is hold by [Ludwig-Maximilians-Universität](https://www.lmu.de/en/index.html) in Munich, Germany. 
