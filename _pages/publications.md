@@ -8,7 +8,7 @@ author_profile: true
 Journal Articles (Peer-reviewed)
 ===
 1. **Zhao, L**., Bai, Y*., 2022. Hierarchical path planning framework for unmanned surface vehicles based on adaptive enhanced non-dominated sorting genetic algorithm (AENSGA-II). (Under Review)
-2. **Zhao, L**., Bai, Y*., Paik, JK., 2022.Task assignment for multi-heterogeneous USVs under stipulation time restriction: mathematical model and combinatorial multi-objective approach. (Under Review)
+2. **Zhao, L**., Bai, Y*., Paik, JK., 2022. Task assignment for multi-heterogeneous USVs under stipulation time restriction: mathematical model and combinatorial multi-objective approach. (Under Review)
 3. **Zhao, L**., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. Ships and Offshore Structures 1-13. [https://doi.org/10.1080/17445302.2022.2116765](https://doi.org/10.1080/17445302.2022.2116765)
 4. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. Ships and Offshore Structures 1-12. [https://doi.org/10.1080/17445302.2022.2126115](https://doi.org/10.1080/17445302.2022.2126115)
 5. **Zhao, L**., Wang, F., Bai, Y*., 2021. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. Ships and Offshore Structures 1–10. [https://doi.org/10.1080/17445302.2022.2081423](https://doi.org/10.1080/17445302.2022.2081423)
