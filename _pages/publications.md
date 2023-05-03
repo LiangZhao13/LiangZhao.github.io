@@ -21,7 +21,7 @@ Journal Articles (Peer-reviewed)
 
 Conferences
 ===
-1. **Zhao, L**., Mao, R., Bai, Y., 2022. Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline, in: 2022 IEEE International Conference on Unmanned Systems (ICUS). pp. 81–85. [[PDF]](files/Local_Path_Planning_for_Unmanned_Surface_Vehicles_based_on_Hybrid_A_and_B-spline.pdf)
+1. **Zhao, L**., Mao, R., Bai, Y., 2022. Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline, in: 2022 IEEE International Conference on Unmanned Systems (ICUS). pp. 81–85. [[PDF]](https://liangzhao13.github.io/files/Local_Path_Planning_for_Unmanned_Surface_Vehicles_based_on_Hybrid_A_and_B-spline.pdf)
 2. **Zhao, L**., Mao, R., Bai, Y., 2022. Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels, in: 2022 IEEE International Conference on Unmanned Systems (ICUS). pp. 237–241.
 
 
