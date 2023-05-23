@@ -8,7 +8,7 @@ author_profile: true
 
 Journal Articles (Peer-reviewed)
 ===
-1. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. Ocean Engineering, p.114750. [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git) 
+1. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. Ocean Engineering, 281, p.114750. [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git) 
 2. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. Ships and Offshore Structures 1-12. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Ultimate.pdf), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git), [[Data]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
 3. **Zhao, L**., Wang, F., Bai, Y., 2023. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. Ships and Offshore Structures 18, 897–906. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Route.pdf), [[Code]](https//:github.com/LiangZhao13/Code-for-IAFSA.git)
 5. **Zhao, L**., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. Ships and Offshore Structures 1-13. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Path.pdf)
