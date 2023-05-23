@@ -10,11 +10,11 @@ Journal Articles (Peer-reviewed)
 ===
 1. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. Ocean Engineering, p.114750. [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git) 
 2. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. Ships and Offshore Structures 1-12. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Ultimate.pdf), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git), [[Data]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
-3. **Zhao, L**., Wang, F., Bai, Y*., 2021. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. Ships and Offshore Structures 1–10. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Route.pdf), [[Code]](https//:github.com/LiangZhao13/Code-for-IAFSA.git)
-4. **Zhao, L**., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. Ships and Offshore Structures 1-13. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Path.pdf)
-5. **Zhao, L**., Wang, F., Bai, Y*., 2021. Current status and challenges of unmanned surface vehicle path planning. Ship Engineering. 44(4), 1-7+48.\[in Chinese]. [[PDF]](https://liangzhao13.github.io/files/reviewpathplanning.pdf)
-6. Wang, F., **Zhao, L**., Bai, Y., 2022. Path Planning For Unmanned Surface Vehicles Based On Modified Artificial Fish Swarm Algorithm With Local Optimizer. Mathematical Problems in Engineering 2022, 1–15.
-7. Wang, F., Bai, Y*., Bai, J., **Zhao, L**., 2022. Deep reinforcement learning in dynamic positioning control: by rewarding small response of riser angles. Ships and Offshore Structures 1–8. 
+3. **Zhao, L**., Wang, F., Bai, Y., 2023. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. Ships and Offshore Structures 18, 897–906. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Route.pdf), [[Code]](https//:github.com/LiangZhao13/Code-for-IAFSA.git)
+5. **Zhao, L**., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. Ships and Offshore Structures 1-13. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Path.pdf)
+6. **Zhao, L**., Wang, F., Bai, Y*., 2021. Current status and challenges of unmanned surface vehicle path planning. Ship Engineering. 44(4), 1-7+48.\[in Chinese]. [[PDF]](https://liangzhao13.github.io/files/reviewpathplanning.pdf)
+7. Wang, F., **Zhao, L**., Bai, Y., 2022. Path Planning For Unmanned Surface Vehicles Based On Modified Artificial Fish Swarm Algorithm With Local Optimizer. Mathematical Problems in Engineering 2022, 1–15.
+8. Wang, F., Bai, Y*., Bai, J., **Zhao, L**., 2022. Deep reinforcement learning in dynamic positioning control: by rewarding small response of riser angles. Ships and Offshore Structures 1–8. 
 
 
 
