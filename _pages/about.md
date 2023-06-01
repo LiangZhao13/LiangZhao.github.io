@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /
 title: "Homepage"
 excerpt: "Homepage"
