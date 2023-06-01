@@ -16,6 +16,13 @@ Collision avoidance and decision support for USV;\
 Advanced control for marine vehicles;**
 - Priori to joining ZJU, I received my B.Eng. degree in College of Civil Engineering at Central South University in 2020.
 
+# Selected works
+1. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. **Ocean Engineering**, 280, p.114750. [[PDF]](https://liangzhao13.github.io/files/zhao2023a.pdf), [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git) 
+2. **Zhao, L**., Wang, F., Bai, Y., 2023. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. **Ships and Offshore Structures** 18, 897–906. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Route.pdf), [[Code]](https//:github.com/LiangZhao13/Code-for-IAFSA.git)
+3. **Zhao, L**., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. **Ships and Offshore Structures** 1-13. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Path.pdf)
+4. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. **Ships and Offshore Structures** 1-12. [[PDF]](https://liangzhao13.github.io/files/Zhao2022Ultimate.pdf), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git), [[Data]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
+5. Wang, F., Bai, Y., **Zhao, L***., 2023. Physical-consistent Path Planning for Unmanned Surface Vehicles under Complex Marine Environment. **Journal of Marine Science and Engineering**, 11(6), 1–22.
+
 # Recent news 
 -   [Oct.2022] I gave a talk about "Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China.
 -   [Oct.2022] I gave a talk about "Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. 
