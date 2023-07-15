@@ -16,7 +16,7 @@ Collision avoidance and decision support for USV;\
 Advanced control for marine vehicles;**
 - Priori to joining ZJU, I received my B.Eng. degree in College of Civil Engineering at Central South University in 2020.
 
-# Representative works
+# Selected works
 *: Corresponding author
 1. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. **Ocean Engineering**, 280, p.114750. [[PDF]](https://liangzhao13.github.io/files/zhao2023a.pdf), [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git)
 2. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global path planning and waypoint following for heterogeneous unmanned surface vehicles assisting inland water monitoring. **Journal of Ocean Engineering and Science**. (In press) [[PDF]](https://liangzhao13.github.io/files/zhao2023JOES.pdf)
