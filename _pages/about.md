@@ -29,8 +29,8 @@ Advanced control for marine vehicles;**
 
 # Recent news 
 -   $\color{#fe4a49}{Award:}$ I was awarded the National Scholarship of graduate student granted by Chinese government. (Oct. 2023)
--   $\color{#37a55a}{Talk:}$ I gave a talk about "Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China.
--   $\color{#37a55a}{Talk:}$ I gave a talk about "Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. 
--   $\color{#fe4a49}{Award:}$ I received the Outstanding Graduate Student honor granted by Zhejiang University. 
--   $\color{#fe4a49}{Award:}$ I was awarded the National Scholarship of graduate student granted by Chinese government. 
--   [July, 2021] I finished the summer school project [EU Study](https://www.lmu.de/en/study/all-degrees-and-programs/programs-for-international-visiting-students/munich-international-summer-university/summer-academies/european-studies-summer-school/index.html) which is hold by [Ludwig-Maximilians-Universität](https://www.lmu.de/en/index.html) in Munich, Germany. 
+-   $\color{#37a55a}{Talk:}$ I gave a talk about "Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. (Oct. 2022)
+-   $\color{#37a55a}{Talk:}$ I gave a talk about "Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. (Oct. 2022)
+-   $\color{#fe4a49}{Award:}$ I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2022)
+-   $\color{#fe4a49}{Award:}$ I was awarded the National Scholarship of graduate student granted by Chinese government. (Oct. 2022)
+ 
