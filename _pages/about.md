@@ -29,6 +29,7 @@ Advanced control for marine vehicles;**
 
 # Recent news 
 -   $\color{#fe4a49}{Award:}$ I was awarded the National Scholarship of graduate student granted by Chinese government. (Oct. 2023)
+-   $\color{#fe4a49}{Award:}$ I was awarded scholarship by Chinese Scholarship Council (CSC) for a joint PhD program (1 year duration) in University College London. (Aug. 2023)
 -   $\color{#37a55a}{Talk:}$ I gave a talk about "Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. (Oct. 2022)
 -   $\color{#37a55a}{Talk:}$ I gave a talk about "Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline" on 5th IEEE International Conference on Unmanned Systems in Guangzhou, China. (Oct. 2022)
 -   $\color{#fe4a49}{Award:}$ I received the Outstanding Graduate Student honor granted by Zhejiang University. (Oct. 2022)
