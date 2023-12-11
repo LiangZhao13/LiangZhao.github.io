@@ -11,9 +11,9 @@ redirect_from:
 
 - I am currently a PhD candidate in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn.http.jxutcmtsg.proxy.jxutcm.edu.cn/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/). 
 - Supervised by [Prof. Yong Bai](https://person.zju.edu.cn/0010294), my current research interests include:\
-**Trajectory/motion planning for USV/AUV/UGV/UAV;\
-Task assignment/cooperative path planning/formation control of multi-USVs system;\
-Collision avoidance and decision support for USV;\
+**Mission/path planning for autonomous marine vehicles;\
+Coverage path planning for bathymetric survey assisted by autonomous marine vehicles;\
+Path design for maritime data harvesting assisted by autonomous marine vehicles;\
 Advanced control for marine vehicles;**
 - Priori to joining ZJU, I received my B.Eng. degree in College of Civil Engineering at Central South University in 2020.
 
