@@ -26,10 +26,9 @@ Journal Articles (Peer-reviewed)
 
 Conferences
 ===
-
 2. **Zhao, L**., Bai, Y., Paik, J.K., 2023. Data harvesting in uncharted waters: Interactive learning empowered path planning for USV-assisted maritime data collection under fully unknown environments. 2023 AI Ocean Technology Conference for PhD Students, Zhoushan, China. (**Poster presentation**)
 3. **Zhao, L**., Mao, R., Bai, Y., 2022. Local Path Planning for Unmanned Surface Vehicles based on Hybrid A* and B-spline, in: 2022 IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China. (**Oral presentation**) 
-4. **Zhao, L**., Mao, R., Bai, Y., 2022. Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels, in: 2022 IEEE International Conference on Unmanned Systems (ICUS) Guangzhou, China. (**Poster presentation**)
+4. **Zhao, L**., Mao, R., Bai, Y., 2022. Observer Design for GNSS-aided Position Estimation of Autonomous Surface Vessels, in: 2022 IEEE International Conference on Unmanned Systems (ICUS), Guangzhou, China. (**Poster presentation**)
 
 
 
