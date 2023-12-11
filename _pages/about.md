@@ -24,7 +24,7 @@ Advanced control for marine vehicles;**
 3. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. **Ocean Engineering**, 280, p.114750. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.114750), [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git)
 4. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Achieving optimal-dynamic path planning for unmanned surface vehicles: a rational multi-objective approach and a sensory-vector re-planner. **Ocean Engineering**, 285, p.115433. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.115433), [[Data]](https://github.com/LiangZhao13/Data-for-AENSGA-II.git)
 5. **Zhao, L**., Wang, F., Bai, Y., 2022. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. **Ships and Offshore Structures** 18, 897–906. [[Link]](https://doi.org/10.1080/17445302.2022.2081423), [[Code]](https://github.com/LiangZhao13/Code-for-IAFSA.git)
-6. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. **Ships and Offshore Structures** 18(10), 1470-1481. [[Link]](https://doi.org/10.1080/17445302.2022.2126115), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
+6. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. **Ships and Offshore Structures** 18, 1470-1481. [[Link]](https://doi.org/10.1080/17445302.2022.2126115), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
 
 
 # Recent news 
