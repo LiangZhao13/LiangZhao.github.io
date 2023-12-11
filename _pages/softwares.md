@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Open-source Softwares"
+title: "Research"
 permalink: /softwares/
 author_profile: true
 ---
