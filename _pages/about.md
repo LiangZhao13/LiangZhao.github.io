@@ -26,6 +26,13 @@ Advanced control for marine vehicles;**
 5. **Zhao, L**., Wang, F., Bai, Y., 2022. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. **Ships and Offshore Structures** 18, 897–906. [[Link]](https://doi.org/10.1080/17445302.2022.2081423), [[Code]](https://github.com/LiangZhao13/Code-for-IAFSA.git)
 6. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. **Ships and Offshore Structures** 18, 1470-1481. [[Link]](https://doi.org/10.1080/17445302.2022.2126115), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
 
+# Research experience
+## Coverage path planning (CPP) for USV-assisted coastal bathymetric survey
+Featuring agile operational ability and low financial costs, unmanned surface vehicle is a desirable tool to perform bathymetric mapping for coastal regions. However, the CPP problem for bathymetry remains an ongoing challenge due to its NP-hard feature, conflicting objectives, and complex ocean environments. This research aims to design effective mathematical models and solvers to address these challenges. We use knowledge from remote sensing, optimization, robotics, and marine engineering to develop algorithms for optimal solutions. Numerical simulations and lake trials are performed to validate the effectiveness in practical applications. \
+
+![figure1]
+
+
 
 # Recent news 
 -   $\color{#fe4a49}{Award:}$ I was awarded the National Scholarship of graduate student granted by Chinese government. (Oct. 2023)
