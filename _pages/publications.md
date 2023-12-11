@@ -15,7 +15,6 @@ Journal Articles (Peer-reviewed)
 6. **Zhao, L**., Wang, F., Bai, Y., 2023. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. Ships and Offshore Structures 18, 897–906. [[Link]](https://doi.org/10.1080/17445302.2022.2081423), [[Code]](https://github.com/LiangZhao13/Code-for-IAFSA.git)
 7. **Zhao, L**., Bai, Y., Wang, F., Bai, J., 2022. Path planning for autonomous surface vessels based on improved artificial fish swarm algorithm: a further study. Ships and Offshore Structures 1-13. [[Link]](https://doi.org/10.1080/17445302.2022.2116765)
 9. Wang, F., Bai, Y., **Zhao, L***., 2023. Physical Consistent Path Planning for Unmanned Surface Vehicles under Complex Marine Environment. Journal of Marine Science and Engineering 11(6), p.1164. 
-10. Wang, F., **Zhao, L**., Bai, Y., 2022. Path Planning For Unmanned Surface Vehicles Based On Modified Artificial Fish Swarm Algorithm With Local Optimizer. Mathematical Problems in Engineering 2022, 1–15.
 11. Wang, F., Bai, Y*., Bai, J., **Zhao, L**., 2022. Deep reinforcement learning in dynamic positioning control: by rewarding small response of riser angles. Ships and Offshore Structures 1–8. 
 
 
