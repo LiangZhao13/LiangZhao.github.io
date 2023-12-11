@@ -14,5 +14,5 @@ The imminent deployment of USV is one of the primary drivers for the Smart Ocean
 ![figure2](/images/figure2.png)
 
 ## Path planning for autonomous surface ships under complex environme
-Navigating unmanned surface vehicles in the intricate and unpredictable oceanic environment poses an indispensable challenge for path planning. This research aims to design a path planning framework which merits autonomous global-planning and local-reaction in an organically way. We consider the ocean current effects, obstacle avoidance, and COLREGs to ensure the safe and efficient navigation of USVs. Theoretical and numerical analysis will be performed to validate the performance pertaining to its convergence, parameter sensitivity, and reliability.
+Navigating unmanned surface vehicles in the intricate and unpredictable oceanic environment poses an indispensable challenge for path planning. This research aims to design a path planning framework which merits autonomous global-planning and local-reaction to adapt the complex environments. We consider the ocean current effects, obstacle avoidance, and COLREGs to ensure the safe and efficient navigation of USVs. Theoretical and numerical analysis will be performed to validate the performance pertaining to its convergence, parameter sensitivity, and reliability.
 ![figure2](/images/figure3.png)
