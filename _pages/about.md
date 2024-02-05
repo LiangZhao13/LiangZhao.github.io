@@ -20,9 +20,9 @@ Advanced control for marine vehicles;**
 # Selected works
 *: Corresponding author
 
-1. **Zhao, L**., Bai, Y., 2023. Data harvesting in uncharted waters: Interactive learning empowered path planning for USV-assisted maritime data collection under fully unknown environments. **Ocean Engineering**, 287, p.115781. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.115781)
-3. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Global-local hierarchical path planning scheme for unmanned surface vehicles under dynamically unforeseen environments. **Ocean Engineering**, 280, p.114750. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.114750), [[Data]](https://github.com/LiangZhao13/Data-for-Global-local.git)
-4. **Zhao, L**., Bai, Y*., Paik, JK., 2023. Achieving optimal-dynamic path planning for unmanned surface vehicles: a rational multi-objective approach and a sensory-vector re-planner. **Ocean Engineering**, 285, p.115433. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.115433), [[Data]](https://github.com/LiangZhao13/Data-for-AENSGA-II.git)
+1.**Zhao, L**., Bai, Y*., Paik, JK., 2024. Optimal coverage path planning for USV-assisted coastal bathymetric survey: Models, solutions, and lake trials. **Ocean Engineering**, 294, p.116921. [[Link]](https://doi.org/10.1016/j.oceaneng.2024.116921)
+2. **Zhao, L**., Bai, Y., 2023. Data harvesting in uncharted waters: Interactive learning empowered path planning for USV-assisted maritime data collection under fully unknown environments. **Ocean Engineering**, 287, p.115781. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.115781)
+4. **Zhao, L**., Bai, Y*., 2024. Unlocking the Ocean 6G: A Review of Path-Planning Techniques for Maritime Data Harvesting Assisted by Autonomous Marine Vehicles. **Journal of Marine Science and Engineering**, 12(1), p.126. [[Link]](https://doi.org/10.3390/jmse12010126)
 5. **Zhao, L**., Wang, F., Bai, Y., 2022. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. **Ships and Offshore Structures** 18, 897–906. [[Link]](https://doi.org/10.1080/17445302.2022.2081423), [[Code]](https://github.com/LiangZhao13/Code-for-IAFSA.git)
 6. **Zhao, L**., Bai, Y*., 2022. Ultimate strength models for spherical shells under external pressure: A comparative study. **Ships and Offshore Structures** 18, 1470-1481. [[Link]](https://doi.org/10.1080/17445302.2022.2126115), [[Code]](https://github.com/LiangZhao13/Strength-Model-Calculation.git)
 
