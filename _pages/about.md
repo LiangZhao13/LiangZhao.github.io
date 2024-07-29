@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 - I am currently a PhD candidate in [College of Civil Engineering and Architecture](http://www.ccea.zju.edu.cn.http.jxutcmtsg.proxy.jxutcm.edu.cn/main.htm) at [Zhejiang University](https://www.zju.edu.cn/english/). 
-- Supervised by [Prof. Yong Bai](https://person.zju.edu.cn/0010294) and [Prof. Jeom Kee Paik](https://hyxy.nbu.edu.cn/info/1177/11491.htm), my current research interests include:\
+- Supervised by [Prof. Yong Bai](https://person.zju.edu.cn/0010294), my current research interests include:\
 **Mission/path planning for autonomous marine vehicles;\
 Coverage path planning for USV-assisted bathymetric survey;\
 Path design for USV-assisted maritime data harvesting;\
@@ -19,7 +19,8 @@ Advanced control for marine vehicles;**
 
 # Selected works
 *: Corresponding author
-1. **Zhao, L**., Bai, Y*., Paik, JK., 2024. Optimal coverage path planning for USV-assisted coastal bathymetric survey: Models, solutions, and lake trials. **Ocean Engineering**, 294, p.116921. [[Link]](https://doi.org/10.1016/j.oceaneng.2024.116921)
+1.**Zhao, L**., Bai, Y*., 2024. Joint-optimized coverage planning framework for USV-assisted offshore bathymetric mapping: From theory to practice. **IEEE Transactions on Intelligent Vehicles**.[Early access] [[Link]](https://doi.org/10.1016/j.oceaneng.2024.116921)
+2. **Zhao, L**., Bai, Y*., Paik, JK., 2024. Optimal coverage path planning for USV-assisted coastal bathymetric survey: Models, solutions, and lake trials. **Ocean Engineering**, 294, p.116921. [[Link]](https://doi.org/10.1016/j.oceaneng.2024.116921)
 3. **Zhao, L**., Bai, Y., 2023. Data harvesting in uncharted waters: Interactive learning empowered path planning for USV-assisted maritime data collection under fully unknown environments. **Ocean Engineering**, 287, p.115781. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.115781)
 4. **Zhao, L**., Bai, Y*., 2024. Unlocking the Ocean 6G: A Review of Path-Planning Techniques for Maritime Data Harvesting Assisted by Autonomous Marine Vehicles. **Journal of Marine Science and Engineering**, 12(1), p.126. [[Link]](https://doi.org/10.3390/jmse12010126)
 5. **Zhao, L**., Wang, F., Bai, Y., 2022. Route planning for autonomous vessels based on improved artificial fish swarm algorithm. **Ships and Offshore Structures** 18, 897–906. [[Link]](https://doi.org/10.1080/17445302.2022.2081423), [[Code]](https://github.com/LiangZhao13/Code-for-IAFSA.git)
