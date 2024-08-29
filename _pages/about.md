@@ -20,6 +20,7 @@ Advanced control for marine vehicles;**
 # Selected works
 
 2. **Zhao, L**., Bai, Y*., 2024. Joint-optimized coverage path planning framework for USV-assisted offshore bathymetric mapping: From theory to practice. **Knowledge-Based Systems**, 294, p.116921. [[Link]](https://doi.org/10.1016/j.oceaneng.2024.116921)
+3. **Zhao, L**., Bai, Y*., 2024. Energy efficient coverage planning for USV-assisted inland bathymetry under current effects: An analysis on sweep direction. Ocean Engineering, 305, p.117910. [[Link]](https://doi.org/10.1016/j.oceaneng.2024.117910))
 4. **Zhao, L**., Bai, Y*., Paik, JK., 2024. Optimal coverage path planning for USV-assisted coastal bathymetric survey: Models, solutions, and lake trials. **Ocean Engineering**, 294, p.116921. [[Link]](https://doi.org/10.1016/j.oceaneng.2024.116921)
 5. **Zhao, L**., Bai, Y., 2023. Data harvesting in uncharted waters: Interactive learning empowered path planning for USV-assisted maritime data collection under fully unknown environments. **Ocean Engineering**, 287, p.115781. [[Link]](https://doi.org/10.1016/j.oceaneng.2023.115781)
 
